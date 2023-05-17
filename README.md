@@ -2,4 +2,4 @@
 
 
 
-![](screen.gif)
+![](./src/assets/screen.gif)
